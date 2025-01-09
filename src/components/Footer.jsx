@@ -3,7 +3,7 @@ import { FaTruck } from "react-icons/fa";
 import { MdSavings } from "react-icons/md";
 import { FaWallet } from "react-icons/fa6";
 import { FaHeadphonesSimple } from "react-icons/fa6";
-import Servebox from "./servbox";
+import Servebox from "../components/Servbox";
 
 
 function Footer() {
