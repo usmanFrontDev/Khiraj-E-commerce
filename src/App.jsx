@@ -4,7 +4,7 @@ import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
 import { useEffect, useState } from "react";
 import { FaStar, FaStarHalfAlt, FaRegStar } from "react-icons/fa";
-import Loader from "./components/loader";
+import Loader from "./components/Loader";
 import { useAuth0 } from "@auth0/auth0-react";
 
 function App() {

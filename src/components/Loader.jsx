@@ -1,9 +1,8 @@
+import React from 'react'
 
-function Loader() {
+const Loader = () => {
   return (
-    <h1>
-      this is my loading
-    </h1>
+    <div>Loader</div>
   )
 }
 
